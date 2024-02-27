@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="16" cy="16" r="16"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<circle clip-path="url(#SVGID_2_)" fill="#93B3D8" cx="16" cy="16" r="16"/>
+	<rect x="6.933" y="11.853" clip-path="url(#SVGID_2_)" width="18.706" height="23.23"/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFFAD1" d="M25.386,38.508v-8.514c0-5.026-4.075-9.101-9.101-9.101
+		c-5.026,0-9.101,4.074-9.101,9.101v8.514H25.386z"/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFE7C7" d="M17.447,21.517c0,0.643-0.52,1.162-1.163,1.162l0,0
+		c-0.642,0-1.162-0.52-1.162-1.162v-0.611c0-0.642,0.52-1.161,1.162-1.161l0,0c0.643,0,1.163,0.52,1.163,1.161V21.517z"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#FFE7C7" cx="16.285" cy="11.569" r="9.359"/>
+	<path clip-path="url(#SVGID_2_)" d="M16.977,2.238c-0.229-0.017-0.459-0.028-0.692-0.028c-0.99,0-1.944,0.155-2.84,0.44
+		c-3.78,1.203-6.519,4.74-6.519,8.918c0,0.095,0.005,0.189,0.007,0.284c1.696-0.052,3.604-0.629,5.395-1.743
+		c1.045-0.65,1.943-1.417,2.668-2.24c0.786,1.01,1.827,1.955,3.078,2.733c2.611,1.624,5.469,2.108,7.555,1.484
+		c0.01-0.171,0.016-0.344,0.016-0.518C25.645,6.633,21.822,2.592,16.977,2.238z"/>
+	<ellipse clip-path="url(#SVGID_2_)" cx="19.703" cy="14.573" rx="0.443" ry="0.936"/>
+	<ellipse clip-path="url(#SVGID_2_)" cx="12.511" cy="14.573" rx="0.443" ry="0.936"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="0.1468" stroke-miterlimit="10" d="M14.915,17.811
+		c0,0,1.223,1.174,2.739,0.049"/>
+	<ellipse clip-path="url(#SVGID_2_)" fill="#F49ABA" cx="20.525" cy="16.392" rx="0.905" ry="0.294"/>
+	<ellipse clip-path="url(#SVGID_2_)" fill="#F49ABA" cx="12.452" cy="16.392" rx="0.905" ry="0.294"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="0.1468" stroke-miterlimit="10" x1="11.009" y1="29.945" x2="11.009" y2="38.654"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="0.1468" stroke-miterlimit="10" x1="21.725" y1="29.945" x2="21.725" y2="38.654"/>
+</g>
+</svg>
